@@ -4,4 +4,4 @@
 def my_sqr(x):
 	return ( x ** 2 ) 
 
-print ( my_sqr(6))
+print ( my_sqr(8))
